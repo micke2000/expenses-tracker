@@ -4,9 +4,9 @@
 * Python
 * SQL
 
-# Project features 
+## Project features 
 * Taking inputs from user about expenses
 * Calculating total spendings in given time 
 
-# Project status
+## Project status
 In progress. 
