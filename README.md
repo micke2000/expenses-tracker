@@ -8,5 +8,5 @@
 * Taking inputs from user about expenses
 * Calculating total spendings in given time 
 
-# Status projektu
+# Project status
 In progress. 
