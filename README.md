@@ -1,6 +1,6 @@
 # Expenses Tracker
 * Description
-# Used technologies
+## Used technologies
 * Python
 * SQL
 
